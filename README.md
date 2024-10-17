@@ -16,6 +16,8 @@ You will create a login and registration system using Python and Tkinter. The sy
    - Validate that the password meets the requirements:
      - At least one special character.
      - At least one number.
+     - At least one lowercase letter
+     - At least one uppercase letter
      - At least 10 characters.
    - If the username already exists, prompt the user to choose a different one.
    - If the password does not meet the requirements, prompt the user to enter a new password.
