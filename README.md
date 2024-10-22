@@ -29,6 +29,11 @@ You will create a login and registration system using Python and Tkinter. The sy
    - Test the registration process with invalid usernames or passwords.
    - Ensure that the password meets all security requirements.
    - Verify that a successful login takes the user to the greeting page.
+  
+   ![Login Page](images/loginpage1.png)
+   ![Welcome Screen](images/loginpage2.png)
+   ![Register Page](images/loginpage3.png)
+   
 
 
 
