@@ -31,7 +31,7 @@ You will create a login and registration system using Python and Tkinter. The sy
    - Verify that a successful login takes the user to the greeting page.
   
    ![Login Page](images/loginpage1.png)
-   ![Login Page](images/loginpage6.png)
+   ![Login Page](images/LoginPage6.png)
    ![Welcome Screen](images/loginpage2.png)
    ![Register Page](images/loginpage3.png)
    ![Register Page](images/loginpage4.png)
